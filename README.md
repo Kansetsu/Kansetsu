@@ -18,7 +18,7 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="csharp" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  
-   <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/7a6ecf6ba181d26f8d0635cce4d3ece5/bd8850ecb9d17470-47/s400x600/fa935c7cc6117836961118833b91eb0cdee28661.gifv">
+   <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://64.media.tumblr.com/7a6ecf6ba181d26f8d0635cce4d3ece5/bd8850ecb9d17470-47/s400x600/fa935c7cc6117836961118833b91eb0cdee28661.gif">
 
 </div>
 
