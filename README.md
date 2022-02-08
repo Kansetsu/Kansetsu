@@ -1,6 +1,6 @@
-## Oii, eu sou Vinícius Andrade, estudante de TI e futuro Desenvolvedor FullStack!
+## Oii, eu sou Vinícius Andrade, estudante de TI e Desenvolvedor FullStack!
 
-- 🔭 Buscando trabalhar como Dev Fullstack;
+- 💼 Dev Fullstack;
 - 🌱 Estudando Web (HTML, CSS, JavaScript);
 - 😄 Pronomes: Ele/Dele
  
