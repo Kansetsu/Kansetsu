@@ -1,7 +1,7 @@
 ## Oii, eu sou Vinícius Andrade, estudante de TI e Desenvolvedor FullStack!
 
 - 💼 Dev Fullstack;
-- 🌱 Estudando Web (HTML, CSS, JavaScript);
+- 🌱 Estudando Web (HTML, CSS, JavaScript e NodeJS);
 - 😄 Pronomes: Ele/Dele
  
 <div align="center">
