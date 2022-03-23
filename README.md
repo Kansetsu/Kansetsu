@@ -1,8 +1,9 @@
-## Oii, eu sou Vinícius Andrade, estudante de TI e Desenvolvedor FullStack!
+## Oi, eu sou Vinícius Andrade, estudante de TI e Desenvolvedor FullStack! 👨‍💻
 
 - 💼 Dev Fullstack;
-- 🌱 Estudando Web (HTML, CSS, JavaScript e NodeJS);
+- 🌱 Estudando Web (JavaScript, TypeScript e React);
 - 😄 Pronomes: Ele/Dele
+- 
  
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
