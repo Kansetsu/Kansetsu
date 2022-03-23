@@ -2,7 +2,6 @@
 
 - 💼 Dev Fullstack;
 - 🌱 Estudando Web (JavaScript, TypeScript e React);
-- 😄 Pronomes: Ele/Dele
  
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
