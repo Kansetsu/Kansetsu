@@ -2,7 +2,7 @@
 
 - 💼 Fullstack Developer;
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
- 
+- 🌱 Learning about DevOps and Learning Docker.
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-AndradeM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
