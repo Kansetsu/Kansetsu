@@ -3,7 +3,7 @@
 - 💼 Fullstack Web Developer;
 - 📖 I'm a Information Systems Undergraduate Student from Brazil;
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
-- 🐋 Learning about DevOps and Docker.
+- 🐋 Learning about DevOps and Docker;
 - 🌎 Most part of my repositories are in portuguese, but there some in english too.
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
