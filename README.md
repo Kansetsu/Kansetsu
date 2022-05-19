@@ -1,6 +1,6 @@
 ## Hi, I'm Vinícius Andrade! 👨‍💻
 
-- 💼 Fullstack Developer;
+- 💼 Fullstack Web Developer;
 - 📖 I'm a Information Systems Undergraduate Student from Brazil;
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
 - 🐋 Learning about DevOps and Docker.
