@@ -7,7 +7,7 @@
 - 🌎 Most part of my repositories are in portuguese, but there some in english too.
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-AndradeM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-AndradeM&hide=prs,issues,contribs&&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-AndradeM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
