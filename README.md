@@ -5,7 +5,7 @@
 - 📖 I'm a Information Systems Undergraduate Student from Brazil at [UNINASSAU](https://www.uninassau.edu.br/);
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
 - 🐋 Learning about DevOps and Docker;
-- 🌎 Most part of my repositories are in portuguese, but there some in english too.
+- 🌎 Most part of my repositories are in portuguese, but there some in english too;
 - 📋 Here you can find my college projects, work projects and study projects too.
 
 ## Something about what I do around here! 📈
