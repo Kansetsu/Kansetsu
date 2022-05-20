@@ -1,17 +1,21 @@
-## Hi, I'm Vinícius Andrade! 👨‍💻
+![Boas vindas ao meu Github](images/welcome-github.gif)
 
-- 💼 Fullstack Web Developer;
-- 📖 I'm a Information Systems Undergraduate Student from Brazil;
+  ## Hi, I'm Vinícius Andrade! 👨‍💻
+- 💼 Fullstack Web Developer at [Encora Brazil](https://www.daitan.com/);
+- 📖 I'm a Information Systems Undergraduate Student from Brazil at [UNINASSAU](https://www.uninassau.edu.br/);
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
 - 🐋 Learning about DevOps and Docker;
 - 🌎 Most part of my repositories are in portuguese, but there some in english too.
+- 📋 Here you can find my college projects, work projects and study projects too.
+
+## Something about what I do around here! 📈
 <div align="center">
   <a href="https://github.com/Vinicius-AndradeM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-AndradeM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-AndradeM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <h2>My Stacks</h2>
+  <h2>My Stacks and Social Media🤖</h2>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="node" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">  
