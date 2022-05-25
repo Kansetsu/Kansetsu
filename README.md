@@ -4,7 +4,7 @@
 - 💼 Fullstack Web Developer at [Encora Brazil](https://www.daitan.com/);
 - 📖 I'm a Information Systems Undergraduate Student from Brazil at [UNINASSAU](https://www.uninassau.edu.br/);
 - 🌱 Learning Web Development (JavaScript, TypeScript and React);
-- 🐋 Learning about DevOps and Docker;
+- 🐋 Learning about DevOps with Jenkins, Kubernetes and Docker;
 - 🌎 Most part of my repositories are in portuguese, but there some in english too;
 - 📋 Here you can find my college projects, work projects and study projects too.
 
@@ -23,11 +23,12 @@
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />   
+  <img align="center" alt="kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="mongodb" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
 </div>
 
 
